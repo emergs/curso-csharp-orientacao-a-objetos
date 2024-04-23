@@ -1,0 +1,15 @@
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/DesafioUm
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/DesafioUm.deps.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/DesafioUm.runtimeconfig.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/DesafioUm.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/ref/DesafioUm.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/bin/Debug/net6.0/DesafioUm.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.csproj.AssemblyReference.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.AssemblyInfoInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.AssemblyInfo.cs
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.csproj.CoreCompileInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/ref/DesafioUm.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioUm/obj/Debug/net6.0/DesafioUm.genruntimeconfig.cache
