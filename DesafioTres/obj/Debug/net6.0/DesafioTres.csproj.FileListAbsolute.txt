@@ -1,0 +1,15 @@
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.csproj.AssemblyReference.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.AssemblyInfoInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.AssemblyInfo.cs
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.csproj.CoreCompileInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/DesafioTres
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/DesafioTres.deps.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/DesafioTres.runtimeconfig.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/DesafioTres.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/ref/DesafioTres.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/bin/Debug/net6.0/DesafioTres.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/ref/DesafioTres.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioTres/obj/Debug/net6.0/DesafioTres.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.csproj.AssemblyReference.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.AssemblyInfoInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.AssemblyInfo.cs
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.csproj.CoreCompileInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/DesafioCinco
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/DesafioCinco.deps.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/DesafioCinco.runtimeconfig.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/DesafioCinco.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/ref/DesafioCinco.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/bin/Debug/net6.0/DesafioCinco.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/ref/DesafioCinco.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioCinco/obj/Debug/net6.0/DesafioCinco.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.csproj.AssemblyReference.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.AssemblyInfoInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.AssemblyInfo.cs
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.csproj.CoreCompileInputs.cache
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/DesafioQuatro
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/DesafioQuatro.deps.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/DesafioQuatro.runtimeconfig.json
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/DesafioQuatro.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/ref/DesafioQuatro.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/bin/Debug/net6.0/DesafioQuatro.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/ref/DesafioQuatro.dll
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.pdb
+/home/emerson/Documents/alura/curso-csharp-orientacao-a-objetos/DesafioQuatro/obj/Debug/net6.0/DesafioQuatro.genruntimeconfig.cache
