@@ -1,0 +1,6 @@
+{
+    "opcoesMeunu":[
+        {"id": 1, "descricao":"Cadastrar uma nova banda/artista"},
+        {"id": 2, "descricao":"Exibir uma banda/artista"}
+    ]
+}

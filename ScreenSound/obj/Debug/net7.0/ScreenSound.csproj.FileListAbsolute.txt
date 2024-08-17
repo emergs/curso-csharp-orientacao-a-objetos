@@ -1,0 +1,17 @@
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\ScreenSound.exe
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\ScreenSound.deps.json
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\ScreenSound.runtimeconfig.json
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\ScreenSound.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\ScreenSound.pdb
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\refint\ScreenSound.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.pdb
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.genruntimeconfig.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ref\ScreenSound.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\alura\curso-csharp-orientacao-a-objetos\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.CopyComplete
